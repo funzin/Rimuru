@@ -2,6 +2,7 @@
 🧊Rimuru is a tool that converts text into a different naming convention
 
 <p align="center">
+  <img src="https://github.com/funzin/Rimuru/workflows/Swift/badge.svg" alt="GitHub Action"/>
   <img src="http://img.shields.io/badge/platform-mac-blue.svg?style=flat" alt="Platform" />
   <a href="https://developer.apple.com/swift">
     <img src="http://img.shields.io/badge/Swift-5.2-brightgreen.svg?style=flat" alt="Language">
